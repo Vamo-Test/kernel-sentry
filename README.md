@@ -1,6 +1,6 @@
 # kernel-sentry
 
-Real-time Linux kernel vulnerability scanner in your browser.
+Interactive AI-driven insights directly in your browser.
 
 A self-contained interactive micro-product — one HTML document (markup, styles, and
 JavaScript inline), served by a zero-dependency Cloudflare Worker. No framework, no
